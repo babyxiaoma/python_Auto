@@ -1,0 +1,33 @@
+#测试环境web后台域名配置
+URL: http://ht.test.by-998.com
+
+#登录账号密码
+username: 12133446101
+password: 123456
+
+#测试环境api地址
+API_URL: http://api.test.by-998.com/
+
+#开发环境api地址
+#API_URL: http://api.by-998.com/
+
+#正式环境api地址
+#API_URL: http://api.ky9997.com/
+
+#HY电玩城环境api地址
+#API_URL: https://api.hydw99.com/
+
+#95棋牌环境api地址
+#API_URL: http://api.909595.com/
+
+
+
+
+#日志配置
+log:
+  file_name:
+  backup: 5
+  console_level: INFO
+  file_level: DEBUG
+  pattern:
+
